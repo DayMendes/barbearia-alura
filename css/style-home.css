@@ -1,0 +1,56 @@
+body {
+}
+
+#banner {
+  width: 100%;
+}
+
+.principal {
+  background: rgba(22, 30, 49, 0.918);
+  padding: 30px;
+}
+
+.titulo-principal {
+  padding-left: 20px;
+  text-align: center;
+  color: rgb(8, 42, 116);
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin: 40px;
+}
+
+p {
+  text-align: center;
+  color: silver;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#missao {
+  font-size: 20px;
+}
+em strong {
+  color: rgb(235, 68, 27);
+}
+
+.titulo-centralizado {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: center;
+}
+
+.itens {
+  font-style: italic;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.beneficios {
+  padding: 20px;
+}
+
+ul {
+  display: inline-block;
+  vertical-align: top;
+  width: 20%;
+  margin-left: 15%;
+}
+
+.imagembeneficios {
+  width: 50%;
+}
